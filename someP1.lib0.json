@@ -1,0 +1,156 @@
+[
+    {
+        "Address":"1818 Spring Garden St",
+        "Checked_Out":[
+            "B561",
+            "P562"
+        ],
+        "City":"Philadelphia",
+        "ID":"M135",
+        "Name":"Jacob Combs",
+        "Phone_Number":"215-496-5931",
+        "State":"Pennsylvania",
+        "Type":"MEMBER",
+        "Zip":"19130"
+    },
+    {
+        "Asset_Type":"SELFHELP",
+        "Author":"Abraham Silbershatz, Peter B. Galvin, and Greg Gange",
+        "Checked_Out_By":"M135",
+        "Checked_Out_On":"09/26/2013",
+        "ID":"B561",
+        "ISBN":"978-1118063330",
+        "Name":"Operating System Concepts",
+        "Type":"NONFICTION"
+    },
+    {
+        "Asset_Type":"SELFHELP",
+        "Checked_Out_By":"M135",
+        "Checked_Out_On":"09/26/2013",
+        "ID":"P562",
+        "ISSN":"1932-1872",
+        "Issues":"1",
+        "Name":"Statistical Analysis and Data Mining",
+        "Number":"1",
+        "Publication_Date":"10/01/2013",
+        "Type":"PERIODICAL",
+        "Volume":"6"
+    },
+    {
+        "Address":"761 Racquet Club Circle",
+        "Checked_Out":[],
+        "City":"Rohnert Park",
+        "ID":"M146",
+        "Name":"Julian J. Edison",
+        "Phone_Number":"707-495-3898",
+        "State":"California",
+        "Type":"MEMBER",
+        "Zip":"94928"
+    },
+    {
+        "Address":"1133 Hughes Ave",
+        "Checked_Out":[
+            "B511",
+            "P512"
+        ],
+        "City":"Santa Rosa",
+        "ID":"M102",
+        "Name":"Kyle Janssen",
+        "Phone_Number":"707-758-3596",
+        "State":"California",
+        "Type":"MEMBER",
+        "Zip":"95407"
+    },
+    {
+        "Asset_Type":"LITERARY",
+        "Author":"Mark Z. Danielewski",
+        "Checked_Out_By":"M102",
+        "Checked_Out_On":"09/13/2013",
+        "ID":"B511",
+        "ISBN":"0-375-70376-4",
+        "Name":"House of Leaves",
+        "Type":"FICTION"
+    },
+    {
+        "Asset_Type":"SPORTS",
+        "Checked_Out_By":"M102",
+        "Checked_Out_On":"08/19/2013",
+        "ID":"P512",
+        "ISSN":"4808-0172",
+        "Issues":"1",
+        "Name":"Bimmer",
+        "Number":"1",
+        "Publication_Date":"08/01/2012",
+        "Type":"PERIODICAL",
+        "Volume":"108"
+    },
+    {
+        "Address":"600 Rohnert Park Expy W",
+        "Checked_Out":[
+            "B559",
+            "P559"
+        ],
+        "City":"Rohnert Park",
+        "ID":"M145",
+        "Name":"Nick Mahnke",
+        "Phone_Number":"916-555-2876",
+        "State":"California",
+        "Type":"MEMBER",
+        "Zip":"94928"
+    },
+    {
+        "Asset_Type":"SCIFI",
+        "Author":"George Orwell",
+        "Checked_Out_By":"M145",
+        "Checked_Out_On":"10/2/2013",
+        "ID":"B559",
+        "ISBN":"978 0141182957",
+        "Name":"1984",
+        "Type":"FICTION"
+    },
+    {
+        "Address":"25 Meridian Circle",
+        "Asset_Type":"LITERARY",
+        "Checked_Out":[
+            "B501",
+            "P502"
+        ],
+        "Checked_Out_By":"M145",
+        "Checked_Out_On":"10/2/2013",
+        "City":"Rohnert Park",
+        "ID":"M101",
+        "ISSN":"",
+        "Issues":"2",
+        "Name":"Anne A. Student",
+        "Number":"2",
+        "Phone_Number":"707-664-1234",
+        "Publication_Date":"01/12/2012",
+        "State":"California",
+        "Type":"MEMBER",
+        "Volume":"89",
+        "Zip":"94928"
+    },
+    {
+        "Asset_Type":"BIOGRAPHY",
+        "Author":"Paul Freiberger and Michael Swaine",
+        "Checked_Out_By":"M101",
+        "Checked_Out_On":"09/13/2013",
+        "ID":"B501",
+        "ISBN":"978-0071358927",
+        "Name":"Fire in the Valley",
+        "Type":"NONFICTION"
+    },
+    {
+        "Asset_Type":"LITERARY",
+        "Checked_Out_By":"NONE",
+        "Checked_Out_On":"00/00/0000",
+        "ID":"P502",
+        "ISSN":"0040-781X",
+        "Issues":"2",
+        "Name":"Time",
+        "Number":"2",
+        "Publication_Date":"01/12/2012",
+        "Type":"PERIODICAL",
+        "Volume":"89"
+    }
+]
